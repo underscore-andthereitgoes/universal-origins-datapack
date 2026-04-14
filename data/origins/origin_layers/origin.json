@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "origins:human",
+    "universal_origins:elemental"
+  ],
+  "replace": true,
+  "default_origin": "origins:human",
+  "loading_priority": 1
+}
